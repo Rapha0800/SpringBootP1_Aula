@@ -1,0 +1,2 @@
+# Configura o Maven para usar Java 21
+-Djava.home=C:\Program Files\Zulu\zulu-21
